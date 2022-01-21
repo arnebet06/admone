@@ -1,6 +1,6 @@
-# probatio
+# admone
 
-A new Flutter project.
+애드먼, 리마인더 애플리케이션
 
 ## Getting Started
 
